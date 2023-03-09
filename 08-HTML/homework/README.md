@@ -22,6 +22,7 @@ I. Cree una página HTML básica.
       * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "https://i.picsum.photos/id/1080/400/200.jpg").
 ```
 
+
 ```
 II Añade un poco de estilo
   A. Agregue la etiqueta de estilo a su documento HTML.
@@ -37,6 +38,7 @@ II Añade un poco de estilo
   K. Asignar al id 'thirdDiv' un relleno (padding) de 50px.
   L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
 ```
+
 
 ```
 III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
