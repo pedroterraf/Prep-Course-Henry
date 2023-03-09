@@ -8,22 +8,24 @@
     border: 8px rgb(255, 60, 60);
 }
 .divClass {
-    font-size: 12px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(255, 85, 85);
+    text-align: center;
 }
 #spanId {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(123, 0, 0);
     font-size: 15px;
-    margin: 250px;
+    margin: 50px;
 }
 img {
     position: absolute;
-    top: 150px;
-    left: 431.5px;
+    top: 200px;
+    left: 500px;
     width: 400px;
 }
 body {
-    font-size: 10px;
     background-image: url('https://p4.wallpaperbetter.com/wallpaper/460/324/878/grill-steak-fire-wallpaper-preview.jpg');
     background-size: cover;
     background-repeat: no-repeat;
