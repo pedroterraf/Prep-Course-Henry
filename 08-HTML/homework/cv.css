@@ -1,0 +1,37 @@
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+}
+.divClass {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13.5px;
+    color: rgb(244, 205, 205) ;
+}
+#spanId {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-size: 25px;
+    margin: 170px;
+}
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+img {
+    position: absolute;
+    top: 350px;
+    left: 431.5px;
+    width: 300px;
+}
+body {
+    font-size: 1px;
+    background-image: url('http://www.solofondos.com/wp-content/uploads/2016/01/2-1024x640.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+    color: rgb(244, 205, 205);
+}
